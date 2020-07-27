@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Testing artifacts
+*.gif
+!/assets/render_from_recording.gif
